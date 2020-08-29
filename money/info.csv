@@ -1,21 +1,6 @@
-,Symbol,Name,Exchange,industry,sector,dividendRate,exDividendDate,lastSplitDate,lastSplitFactor
-0,A,"Agilent Technologies, Inc",NYSE,,,,,,
-1,AA,Alcoa Corp,NYSE,,,,,,
-2,AAN,"Aaron's, Inc",NYSE,,,,,,
-3,AAP,"Advance Auto Parts, Inc W/I",NYSE,,,,,,
-4,AAT,"American Assets Trust, Inc",NYSE,,,,,,
-5,AB,AllianceBernstein Holding LP Units,NYSE,,,,,,
-6,ABB,ABB Ltd,NYSE,,,,,,
-7,ABBV,"AbbVie, Inc",NYSE,,,,,,
-8,ABC,AmerisourceBergen Corp,NYSE,,,,,,
-9,ABEV,Ambev SA ADS,NYSE,,,,,,
-10,ABG,"Asbury Automotive Group, Inc",NYSE,,,,,,
-11,ABM,"ABM Industries, Inc",NYSE,,,,,,
-12,ABR,Arbor Realty Trust,NYSE,,,,,,
-13,ABR.PR.A,"Arbor Realty Trust, Inc PR A",NYSE,,,,,,
-14,ABR.PR.B,"Arbor Realty Trust, Inc PR B",NYSE,,,,,,
-15,ABR.PR.C,"Arbor Realty Trust, Inc PR C",NYSE,,,,,,
-16,ABT,Abbott Laboratories,NYSE,,,,,,
-17,AC,"Associated Capital Group, Inc",NYSE,,,,,,
-18,ACA,"Arcosa, Inc",NYSE,,,,,,
-19,ACB,"Aurora Cannabis, Inc",NYSE,,,,,,
+,Symbol,Name,Exchange,industry,sector,dividendRate,exDividendDate,lastSplitDate,lastSplitFactor,upcoming_earnings_date,previous_earnings_date
+0,A,"Agilent Technologies, Inc",NYSE,,,0.72,1593388800.0,1414972800.0,,,
+1,AA,Alcoa Corp,NYSE,,,,,1477958400.0,,2020-10-14,2020-06-30
+2,AAN,"Aaron's, Inc",NYSE,,,0.16,1600214400.0,1271376000.0,,2020-11-02,2020-06-30
+3,AAP,"Advance Auto Parts, Inc W/I",NYSE,,,1.0,1600300800.0,1127692800.0,,2020-11-10,2020-07-11
+4,AAT,"American Assets Trust, Inc",NYSE,,,1.0,1599609600.0,,,2020-10-27,2020-06-30
