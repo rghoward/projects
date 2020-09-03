@@ -1,3 +1,101 @@
-,Symbol,Name,Exchange,industry,sector,dividendRate,exDividendDate,lastSplitDate,lastSplitFactor,upcoming_earnings_date,previous_earnings_date
-0,A,"Agilent Technologies, Inc",NYSE,Diagnostics & Research,Healthcare,0.72,1593388800,1414972800,1398:1000,,
-1,AA,Alcoa Corp,NYSE,Aluminum,Basic Materials,,,1477958400,1000:801,2020-10-14,2020-07-15 12:00:00
+,Symbol,Name,Exchange,Sector,industry,dividendRate,exDividendDate,lastSplitDate,lastSplitFactor,previous_earnings_date,upcoming_earnings_date
+0,DDD,3D Systems Corporation,NYSE,Technology,Computer Software: Prepackaged Software,,,1361750400,3:2,2020-08-05 12:00:00,2020-10-28 06:00:00
+1,MMM,3M Company,NYSE,Health Care,Medical/Dental Instruments,5.88,1597968000,1064880000,2:1,2020-07-28 12:00:00,2020-10-27 08:00:00
+2,WBAI,500.com Limited,NYSE,Consumer Services,Services-Misc. Amusement & Recreation,,,,,2015-11-12 12:00:00,2016-08-15 12:00:00
+3,WUBA,58.com Inc.,NYSE,Technology,"Computer Software: Programming, Data Processing",,,,,2020-06-26 12:00:00,2020-09-03 04:00:00
+4,EGHT,8x8 Inc,NYSE,Technology,EDP Services,,,,,2020-07-30 12:00:00,2020-10-28 04:00:00
+5,AHC,A.H. Belo Corporation,NYSE,Consumer Services,Newspapers/Magazines,0.16,1597276800,1422921600,10:1,2013-02-12 12:00:00,2014-10-28 12:00:00
+6,AOS,A.O Smith Corporation,NYSE,Consumer Durables,Consumer Electronics/Appliances,0.96,1596067200,1475712000,2:1,2020-07-30 12:00:00,2020-10-27 08:00:00
+7,ATEN,"A10 Networks, Inc.",NYSE,Technology,Computer Communications Equipment,,,,,2020-07-28 12:00:00,2020-10-27 06:00:00
+8,AIR,AAR Corp.,NYSE,Capital Goods,Aerospace,0.3,1585267200,888278400,3:2,2020-07-21 12:00:00,2020-09-23 06:00:00
+9,AAN,"Aaron&#39;s,  Inc.",NYSE,Technology,Diversified Commercial Services,0.16,1600214400,1271376000,3:2,2020-07-29 12:00:00,2020-11-02 06:00:00
+10,ABB,ABB Ltd,NYSE,Consumer Durables,Electrical Products,0.83,1585526400,985824000,4:1,,
+11,ABT,Abbott Laboratories,NYSE,Health Care,Major Pharmaceuticals,1.44,1594684800,1357084800,10000:4798,2020-07-16 12:00:00,2020-10-14 08:00:00
+12,ABBV,AbbVie Inc.,NYSE,Health Care,Major Pharmaceuticals,4.72,1594684800,,,2020-07-31 12:00:00,2020-10-30 08:00:00
+13,ANF,Abercrombie & Fitch Company,NYSE,Consumer Services,Clothing/Shoe/Accessory Stores,,1583366400,929491200,2:1,2020-08-27 12:00:00,2020-11-24 09:00:00
+14,AGD,Aberdeen Global Dynamic Dividend Fund,NYSE,,,0.78,1597881600,1390262400,1:2,,
+15,AWP,Aberdeen Global Premier Properties Fund,NYSE,,,0.48,1597881600,,,,
+16,ACP,Aberdeen Income Credit Strategies Fund,NYSE,,,,,,,,
+17,JEQ,"Aberdeen Japan Equity Fund, Inc. ",NYSE,,,0.07,1577664000,,,,
+18,ASGI,Aberdeen Standard Global Infrastructure Income Fund,NYSE,,,,,,,,
+19,AOD,Aberdeen Total Dynamic Dividend Fund,NYSE,,,0.69,1597881600,1390262400,1:2,,
+20,ABM,ABM Industries Incorporated,NYSE,Finance,Diversified Commercial Services,0.74,1593561600,1020729600,2:1,2020-06-17 12:00:00,2020-09-08 04:00:00
+21,AKR,Acadia Realty Trust,NYSE,Consumer Services,Real Estate Investment Trusts,,1585526400,1418083200,10:1,2020-08-05 12:00:00,2020-10-21 06:00:00
+22,ACEL,"Accel Entertainment, Inc.",NYSE,Consumer Services,Services-Misc. Amusement & Recreation,,,,,2020-05-18 12:00:00,2020-08-06 12:00:00
+23,ACN,Accenture plc,NYSE,Miscellaneous,Business Services,3.2,1594771200,1325203200,10:1,2020-06-25 12:00:00,2020-09-24 08:00:00
+24,ACCO,Acco Brands Corporation,NYSE,Consumer Durables,Publishing,0.26,1598313600,620611200,3:2,2020-05-04 12:00:00,2020-07-28 12:00:00
+25,ATV,"Acorn International, Inc.",NYSE,Consumer Services,Other Specialty Stores,1,1576108800,1448841600,3:20,,
+26,AYI,"Acuity Brands, Inc. ",NYSE,Consumer Durables,Building Products,0.52,1594857600,1209686400,1:1,2020-06-30 12:00:00,2020-10-08 08:00:00
+27,GOLF,Acushnet Holdings Corp.,NYSE,Consumer Non-Durables,Recreational Products/Toys,0.62,1599091200,,,2020-08-05 12:00:00,2020-10-29 08:00:00
+28,ADX,"Adams Diversified Equity Fund, Inc.",NYSE,,,0.2,1597622400,972000000,3:2,,
+29,PEO,"Adams Natural Resources Fund, Inc.",NYSE,,,0.4,1597622400,972000000,3:2,,
+30,ADCT,ADC Therapeutics SA,NYSE,Health Care,Major Pharmaceuticals,,,,,,
+31,AGRO,Adecoagro S.A.,NYSE,Consumer Non-Durables,Farming/Seeds/Milling,,,,,2019-11-13 12:00:00,2020-03-12 12:00:00
+32,ADNT,Adient plc,NYSE,Capital Goods,Auto Parts:O.E.M.,,1540252800,,,2020-08-06 12:00:00,2020-11-05 09:00:00
+33,ADT,ADT Inc.,NYSE,Consumer Services,Diversified Commercial Services,0.14,1600300800,,,2020-08-05 12:00:00,2020-11-10 05:00:00
+34,ATGE,Adtalem Global Education Inc.,NYSE,Consumer Services,Other Consumer Services,,1480464000,898473600,2:1,2020-08-18 12:00:00,2020-10-27 06:00:00
+35,AAP,Advance Auto Parts Inc,NYSE,Consumer Services,Other Specialty Stores,1,1600300800,1127692800,3:2,2020-08-18 12:00:00,2020-11-10 09:00:00
+36,ADSW,"Advanced Disposal Services, Inc.",NYSE,Public Utilities,Environmental Services,,,,,2020-07-30 12:00:00,2020-10-27 06:00:00
+37,WMS,"Advanced Drainage Systems, Inc.",NYSE,Capital Goods,Containers/Packaging,0.36,1598832000,,,2020-08-06 12:00:00,2020-11-05 09:00:00
+38,ASIX,AdvanSix Inc.,NYSE,Basic Industries,Major Chemicals,,,,,,
+39,AVK,Advent Convertible and Income Fund,NYSE,,,1.41,1597276800,,,,
+40,ACM,AECOM,NYSE,Consumer Services,Military/Government/Technical,,,,,2020-08-04 12:00:00,2020-11-10 09:00:00
+41,AEFC,Aegon Funding Company LLC,NYSE,Finance,Life Insurance,,,,,,
+42,AEB,Aegon NV,NYSE,Finance,Life Insurance,,,,,,
+43,AEG,Aegon NV,NYSE,Finance,Life Insurance,0.14,1597968000,1050537600,104:100,2013-11-07 12:00:00,2014-05-15 12:00:00
+44,AER,Aercap Holdings N.V.,NYSE,Technology,Diversified Commercial Services,,,,,2020-07-29 12:00:00,2020-11-06 09:00:00
+45,AJRD,"Aerojet Rocketdyne Holdings, Inc. ",NYSE,Capital Goods,Military/Government/Technical,,1085011200,938995200,10000:5275,2020-07-27 12:00:00,2020-10-26 04:00:00
+46,AMG,"Affiliated Managers Group, Inc.",NYSE,Finance,Investment Managers,0.04,1596585600,1080604800,3:2,2020-07-27 12:00:00,2020-10-26 08:00:00
+47,MGR,"Affiliated Managers Group, Inc.",NYSE,Finance,Investment Managers,,,,,,
+48,AFL,Aflac Incorporated,NYSE,Finance,Accident &Health Insurance,1.12,1597708800,1521417600,2:1,2020-07-28 12:00:00,2020-10-27 12:00:00
+49,MITT,"AG Mortgage Investment Trust, Inc.",NYSE,,,,1577664000,,,2020-08-10 12:00:00,2020-11-02 06:00:00
+50,MITT^A,"AG Mortgage Investment Trust, Inc.",NYSE,,,,,,,,
+51,MITT^B,"AG Mortgage Investment Trust, Inc.",NYSE,,,,,,,,
+52,MITT^C,"AG Mortgage Investment Trust, Inc.",NYSE,,,,,,,,
+53,AGCO,AGCO Corporation,NYSE,Capital Goods,Industrial Machinery/Components,0.64,1597276800,823132800,2:1,2020-07-30 12:00:00,2020-10-27 08:00:00
+54,A,"Agilent Technologies, Inc.",NYSE,Capital Goods,Biotechnology: Laboratory Analytical Instruments,0.72,1593388800,1414972800,1398:1000,2020-08-18 12:00:00,2020-11-23 05:00:00
+55,AEM,Agnico Eagle Mines Limited,NYSE,Basic Industries,Precious Metals,0.8,1606176000,,,,
+56,ADC,Agree Realty Corporation,NYSE,Consumer Services,Real Estate Investment Trusts,2.4,1593043200,,,2020-07-20 12:00:00,2020-10-19 06:00:00
+57,AL,Air Lease Corporation,NYSE,Technology,Diversified Commercial Services,0.6,1599696000,,,2020-08-06 12:00:00,2020-11-05 06:00:00
+58,AL^A,Air Lease Corporation,NYSE,,,,,,,,
+59,APD,"Air Products and Chemicals, Inc.",NYSE,Basic Industries,Major Chemicals,5.36,1601424000,1475452800,1081:1000,2020-07-23 12:00:00,2020-11-05 09:00:00
+60,ALP^Q,Alabama Power Company,NYSE,,,,,,,,
+61,ALG,"Alamo Group, Inc.",NYSE,Capital Goods,Industrial Machinery/Components,0.52,1594771200,,,2020-07-29 12:00:00,2020-10-28 04:00:00
+62,AGI,Alamos Gold Inc.,NYSE,Basic Industries,Precious Metals,0.06,1600128000,,,,
+63,ALK,"Alaska Air Group, Inc.",NYSE,Transportation,Air Freight/Delivery Services,,1581638400,1404950400,2:1,2020-07-23 12:00:00,2020-10-22 06:00:00
+64,AIN,Albany International Corporation,NYSE,Basic Industries,Textiles,0.76,1599177600,944611200,102:100,2020-07-29 12:00:00,2020-10-27 06:00:00
+65,ALB,Albemarle Corporation,NYSE,Basic Industries,Major Chemicals,1.54,1600300800,1172793600,2:1,2020-08-05 12:00:00,2020-11-04 06:00:00
+66,ACI,"Albertsons Companies, Inc.",NYSE,Consumer Services,Food Chains,,,,,,
+67,AA,Alcoa Corporation,NYSE,Basic Industries,Aluminum,,,1477958400,1000:801,2020-07-15 12:00:00,2020-10-14 06:00:00
+68,ALC,Alcon Inc.,NYSE,Health Care,Ophthalmic Goods,,,,,,
+69,ALEX,"Alexander & Baldwin, Inc.",NYSE,Consumer Services,Real Estate Investment Trusts,0.76,1583452800,,,,
+70,ALX,"Alexander&#39;s, Inc.",NYSE,Consumer Services,Real Estate Investment Trusts,18,1596758400,31190400,1:1,2020-08-03 12:00:00,2020-10-26 08:00:00
+71,ARE,"Alexandria Real Estate Equities, Inc.",NYSE,Consumer Services,Real Estate Investment Trusts,4.24,1601337600,1145836800,1:1,2020-07-27 12:00:00,2020-10-26 04:00:00
+72,AQN,Algonquin Power & Utilities Corp.,NYSE,Public Utilities,Electric Utilities: Central,0.62,1601337600,,,,
+73,AQNA,Algonquin Power & Utilities Corp.,NYSE,Public Utilities,Electric Utilities: Central,,,,,,
+74,AQNB,Algonquin Power & Utilities Corp.,NYSE,Public Utilities,Electric Utilities: Central,,,,,,
+75,BABA,Alibaba Group Holding Limited,NYSE,Miscellaneous,Business Services,,,,,2020-08-20 12:00:00,2020-10-30 08:00:00
+76,Y,Alleghany Corporation,NYSE,Finance,Property-Casualty Insurers,,543542400,1301443200,102:100,2020-08-04 12:00:00,2020-11-03 06:00:00
+77,ATI,Allegheny Technologies Incorporated,NYSE,Basic Industries,Steel/Iron Ore,,1471305600,943920000,1:2,2020-08-04 12:00:00,2020-10-29 08:00:00
+78,ALLE,Allegion plc,NYSE,Consumer Services,Diversified Commercial Services,1.28,1600128000,,,2020-07-23 12:00:00,2020-10-22 08:00:00
+79,ALE,"Allete, Inc.",NYSE,Public Utilities,Power Generation,2.47,1597276800,1095724800,1:3,2020-08-05 12:00:00,2020-11-04 09:00:00
+80,ADS,Alliance Data Systems Corporation,NYSE,Miscellaneous,Business Services,0.84,1597276800,1149552000,1:4,2020-07-23 12:00:00,2020-10-22 08:00:00
+81,AFB,Alliance National Municipal Income Fund Inc,NYSE,,,0.64,1599091200,,,,
+82,AWF,Alliance World Dollar Government Fund II,NYSE,,,0.79,1599091200,,,,
+83,AB,AllianceBernstein Holding L.P.,NYSE,Finance,Investment Managers,2.44,1596153600,891561600,2:1,,
+84,AIO,AllianzGI Artificial Intelligence & Tech Opp Fd,NYSE,,,,,,,,
+85,CBH,AllianzGI Convertible & Income 2024 Target Term Fund,NYSE,,,,,,,,
+86,NCV,AllianzGI Convertible & Income Fund,NYSE,,,0.51,1597190400,,,,
+87,NCV^A,AllianzGI Convertible & Income Fund,NYSE,,,,,,,,
+88,NCZ,AllianzGI Convertible & Income Fund II,NYSE,,,0.45,1597190400,,,,
+89,NCZ^A,AllianzGI Convertible & Income Fund II,NYSE,,,,,,,,
+90,ACV,AllianzGI Diversified Income & Convertible Fund,NYSE,,,2,1597190400,,,,
+91,NFJ,"AllianzGI Dividend, Interest & Premium Strategy Fu",NYSE,Finance,Finance: Consumer Services,0.9,1591920000,,,,
+92,NIE,AllianzGI Equity & Convertible Income Fund,NYSE,,,,,,,,
+93,ALSN,"Allison Transmission Holdings, Inc.",NYSE,Capital Goods,Auto Parts:O.E.M.,0.68,1597968000,,,2020-08-04 12:00:00,2020-10-28 06:00:00
+94,ALL,Allstate Corporation (The),NYSE,Finance,Property-Casualty Insurers,2.16,1598486400,899337600,2:1,,
+95,ALL^B,Allstate Corporation (The),NYSE,,,,,,,,
+96,ALL^G,Allstate Corporation (The),NYSE,,,,,,,,
+97,ALL^H,Allstate Corporation (The),NYSE,,,,,,,,
+98,ALL^I,Allstate Corporation (The),NYSE,,,,,,,,
+99,ALLY,Ally Financial Inc.,NYSE,Finance,Major Banks,,,,,,
