@@ -6,6 +6,6 @@ This folder contains a group of projects I have done where I have went through o
 1. Clustering Orlando Neighborhoods Based on Covid Cases
 2. Determining Stock Growth Leading up to Quarterly Earnings
 
-It also contains a selection of projects where I practiced my analysis skills.  I obtained these projects from janatahack.com
+It also contains a selection of projects where I showcased my use of a variety of ML techniques.
 
 
