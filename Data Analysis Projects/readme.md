@@ -7,6 +7,8 @@ A heat map was then used to to showcase the number of Covid-19 cases in each Orl
 
 The analysis determined that there was a high correlation in the clusters created and their corresponding Covid-19 cases.  
 ![Chloropleth](https://github.com/rghoward/projects/blob/master/images/chropleth.png)
+<image src="https://github.com/rghoward/projects/blob/master/images/chropleth.png" width = "200">
+
 
 ## Determining Stock Growth Leading up to Quarterly Earnings
 This project's aim was to determine if recent trends in stock the stock market could be used to determine if a stock would increase in price leading up to its quarterly earnings.
