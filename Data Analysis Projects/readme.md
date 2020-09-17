@@ -6,8 +6,7 @@ This project was used as a capstone for the IBM Data Science certificate.  In th
 A heat map was then used to to showcase the number of Covid-19 cases in each Orlando neighborhood.  The clusters were grouped along with the heat map.  
 
 The analysis determined that there was a high correlation in the clusters created and their corresponding Covid-19 cases.  
-![Chloropleth](https://github.com/rghoward/projects/blob/master/images/chropleth.png)
-<image src="https://github.com/rghoward/projects/blob/master/images/chropleth.png" width = "200">
+<image src="https://github.com/rghoward/projects/blob/master/images/chropleth.png" width = "600">
 
 
 ## Determining Stock Growth Leading up to Quarterly Earnings
