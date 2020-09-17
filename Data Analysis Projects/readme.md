@@ -1,4 +1,5 @@
 # Data Analysis Projects
+A collection of data analysis projects I've done. There are three main folders as listed below:
 
 ## Clustering Orlando Neighborhoods Based on Covid Cases
 This project was used as a capstone for the IBM Data Science certificate.  In this project I used the Foursquare API to cluster Orlando neighborhoods into 5 clusters using the elbow method.  
