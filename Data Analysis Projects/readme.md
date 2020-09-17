@@ -14,4 +14,4 @@ This project's aim was to determine if recent trends in stock the stock market c
 A list of all publicly traded stocks in the USA was created and then features were created based on technical indicators and other categories such as the stock's sector. Using a KNN model, it was found that a stock's price leading up to quarterly earnings could only be predicted by abou 60%. The analysis might be improved by using more features or a longer trend as only the most recent 90 days were used.
 
 ## Projects from the Web
-This is a collection of projects I obtained from Janatahack.com.  I supply these to showcase my usage of a variety of ML and Regression techniques.![Chloropleth](http://https://github.com/rghoward/projects/images/chloropleth.png)
+This is a collection of projects I obtained from Janatahack.com.  I supply these to showcase my usage of a variety of ML and Regression techniques.![Chloropleth](https://github.com/rghoward/projects/images/chloropleth.png)
