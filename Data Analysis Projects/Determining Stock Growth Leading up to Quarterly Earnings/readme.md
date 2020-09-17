@@ -1,4 +1,4 @@
-# Determining STock Growth Leading up to Quarterly Earnings
+# Determining Stock Growth Leading up to Quarterly Earnings
 
 This repository contains 5 main files
 1. initial data creator.ipynb: This file is used to generate the initial data
