@@ -1,7 +1,0 @@
-flask
-psycopg2
-psycopg2-binary
-prettytable
-ipython
-simplejson
-Flask-Cors
