@@ -8,7 +8,5 @@ This folder contains a group of projects I have done where I have went through o
 
 It also contains a selection of projects where I showcased my use of a variety of ML techniques.
 
-## DB_Project
-This folder contains a project that saw a database created from start to finish.  Vue.js was used to display queries and Python was used to make those queries.  The database was created in PostgreSQL.
 
 
